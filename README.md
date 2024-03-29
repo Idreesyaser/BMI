@@ -21,6 +21,3 @@ To run this application, you will need:
 
 Clone this repository and navigate to the directory where `Program.cs` is located.
 
-```bash
-git clone https://github.com/yourusername/paino-oy-bmi-tracker.git
-cd bmi-tracker
